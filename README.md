@@ -4,7 +4,7 @@
 - 1.2 Код должен быть оформлен в функции.
  
 # Приступая к работе
- - Для запуска проекта на локальном компьютере, необходимо скопировать ссылку https://github.com/edword1996/Move-detection-.git, зайти в панел VCS -> Checkout from Version Control -> Git -> Url. В панель  Url втавить ссылку.
+ - Для запуска проекта на локальном компьютере, необходимо скопировать ссылку https://github.com/edword1996/Move-detection-.git, зайти в панел VCS -> Checkout from Version Control -> Git -> Url. В панель  Url втавить ссылку. Или сделать команду git clone https://github.com/edword1996/Move-detection-.git
  - Для того что бы проект был склонирован в текущую папку, необходимо отркрыть командную строки и выполнить команду git clone https://github.com/edword1996/Move-detection-.git.
 
 
