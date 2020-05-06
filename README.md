@@ -44,6 +44,10 @@ before
 ![new_image](https://user-images.githubusercontent.com/54912523/81163337-434a5500-8f97-11ea-8911-2ee3efb02f95.jpg)
 
 
+<p align="center"> 
+    <img src="https://user-images.githubusercontent.com/54912523/81163337-434a5500-8f97-11ea-8911-2ee3efb02f95.jpg" alt="alternate text">
+ </p>
+
 
 after
 
