@@ -39,8 +39,9 @@ To start a project, open a command prompt in the folder where the project is loc
 python prikol.py --image cropped.jpg
 ```
 # Result
+before
 
-              ![new_image](https://user-images.githubusercontent.com/54912523/81163337-434a5500-8f97-11ea-8911-2ee3efb02f95.jpg)
+![new_image](https://user-images.githubusercontent.com/54912523/81163337-434a5500-8f97-11ea-8911-2ee3efb02f95.jpg)
 
 
 
