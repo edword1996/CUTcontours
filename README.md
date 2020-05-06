@@ -29,13 +29,18 @@ pip install pyparsing==2.4.7
 pip install python-dateutil==2.8.1
 pip install six==1.14.0
 ```
-- pip install -r requirements.txt
  
 All the libraries above are installed using (```pip install -r requirements.txt```) the command line.
 
 
-# Установка
-- После загрузки проекта установите нужные библиотеки. Они находятся в файле requirements.txt. Поскольку вы склонировали проект, вы можете установить библиотека таким образом :
-- pip install -r requirements.txt
+# Usage
+To start a project, open a command prompt in the folder where the project is located.
+```
+python prikol.py --image cropped.jpg
+```
+# Result
+before
+
+
 
 
