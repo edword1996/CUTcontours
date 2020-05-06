@@ -1,8 +1,8 @@
 # CUT CONTOURS
 # Task description
-1. Задача: обрезка изображений. На вход поступают изображения, нужно найти их контур, обрезать и сохранить на диске. 
-- 1.1 Программа должна содержать агпарсер и запускаться с консоли. 
-- 1.2 Код должен быть оформлен в функции.
+Objective: crop images. Images are input, you need to find their outline, crop and save to disk. 
+ - 1.1 The program should contain an agparser and run from the console. 
+ - 1.2 The code should be issued in function.
  
 # Приступая к работе
  - Для запуска проекта на локальном компьютере, необходимо скопировать ссылку https://github.com/edword1996/Move-detection-.git, зайти в панел VCS -> Checkout from Version Control -> Git -> Url. В панель  Url втавить ссылку. Или сделать команду git clone https://github.com/edword1996/Move-detection-.git
