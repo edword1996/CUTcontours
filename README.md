@@ -40,8 +40,10 @@ python prikol.py --image cropped.jpg
 ```
 # Result
 before
+<p align="center">
+  <img /![new_image](https://user-images.githubusercontent.com/54912523/81163337-434a5500-8f97-11ea-8911-2ee3efb02f95.jpg)>
+</p>
 
-![new_image](https://user-images.githubusercontent.com/54912523/81163337-434a5500-8f97-11ea-8911-2ee3efb02f95.jpg)
 
 after
 
